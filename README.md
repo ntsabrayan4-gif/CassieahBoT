@@ -1,6 +1,6 @@
 # CassieahBoT 4.0+ (Dev)
 
-CassieahBoT (formerly CassidySpectra, forked from CassidyRedux, originally CassidyBoT) is a multi-platform chatbot framework for Facebook, Discord, and web. Maintained by Liane Cagara ([lianecagara on GitHub](https://github.com/lianecagara)), it uses TypeScript for robust tooling and now includes **napi-rs canvas** for image generation because text-only output is outdated. This is the 4.0+ dev branch, so expect rough edges. If you break something, that’s on you.
+bryanBoT (formerly bryanSpectra, forked from bryanRedux, originally bryanBoT) is a multi-platform chatbot framework for Facebook, Discord, and web. Maintained by Liane Cagara ([lianecagara on GitHub](https://github.com/lianecagara)), it uses TypeScript for robust tooling and now includes **napi-rs canvas** for image generation because text-only output is outdated. This is the 4.0+ dev branch, so expect rough edges. If you break something, that’s on you.
 
 <img src="public/Cover.png"></img>
 
@@ -24,7 +24,7 @@ CassieahBoT (formerly CassidySpectra, forked from CassidyRedux, originally Cassi
 
 ## Overview
 
-CassieahBoT is a framework for building bots that work across Facebook (personal accounts and pages), Discord (partially), and web interfaces. It leverages TypeScript for type safety and includes **napi-rs canvas** for generating images dynamically. It’s extensible but not foolproof. If you don’t follow instructions, don’t expect it to work.
+bryanBoT is a framework for building bots that work across Facebook (personal accounts and pages), Discord (partially), and web interfaces. It leverages TypeScript for type safety and includes **napi-rs canvas** for generating images dynamically. It’s extensible but not foolproof. If you don’t follow instructions, don’t expect it to work.
 
 ## Features
 
@@ -76,8 +76,8 @@ Follow these steps exactly. If the bot doesn’t work, check the logs first befo
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/CassieahBoT
-   cd CassieahBoT
+   git clone https://github.com/your-username/bryanBoT
+   cd bryanBoT
    ```
 
 3. **Run Update Command**:
@@ -509,7 +509,7 @@ This pattern is used for:
 
 ---
 
-**CassieahBoT — December 24, 2025**  
+**bryanBoT — December 24, 2026**  
 Destructure in parameters. Export `style`. Use `output.reply()`.  
 Clean. Fast. Scalable.
 
